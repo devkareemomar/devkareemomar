@@ -1,4 +1,4 @@
-<h1 align="center">Hi There 👋, I'm I`m Kareem Omar</h1>
+<h1 align="center">Hi There 👋, I`m Kareem Omar</h1>
 <h3 align="center">👨‍💻 I’m a Software Engineer 🚀 from Egypt</h3>
 
 - 🌱 I’m currently learning **Ruby , Ruby on Rails**
