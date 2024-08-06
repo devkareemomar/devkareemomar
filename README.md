@@ -1,7 +1,7 @@
 <h1 align="center">Hi There 👋, I`m Kareem Omar</h1>
 <h3 align="center">👨‍💻 I’m a Software Engineer 🚀 from Egypt</h3>
 
-- 🌱 I’m currently learning **Ruby , Ruby on Rails**
+- 🌱 I’m currently working on **Bevatel system (VOIP project) **
 
 - 💬 Ask me about **Laravel , php ,databases**
 
