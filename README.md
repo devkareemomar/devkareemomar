@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Laravel , php ,databases**
 
-- 📫 How to reach me **div.kareemomar@gmail.com**
+- 📫 How to reach me **dev.kareemomar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
